@@ -5,6 +5,6 @@
 <h2>Sobre mim</h2>  <i class="fas fa-"></i>
 
 <p>Desenvolvedora web em formação</p>  <i class="fas fa-fire"></i>
-<p>Atualmente curso sistemas de informação no ifal- Instituto Federal de Alagoas</p>
+<p>Atualmente curso sistemas de informação no [IFAL]- (www.ifal.edu.br)</p>
 <p>Moro em maceió- Alagoas</p>
 <p>Meu insta - @tainamiraanda</p>
