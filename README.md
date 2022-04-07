@@ -5,11 +5,11 @@
 <h2>Sobre mim</h2>  <i class="fas fa-"></i>
 
 <p>Desenvolvedora web em formação</p>  <i class="fas fa-fire"></i>
-<p>Atualmente curso sistemas de informação no [IFAL]- (www.ifal.edu.br)</p>
+<p>Atualmente curso sistemas de informação no [IFAL]- (www2.ifal.edu.br)</p>
 <p>Moro em maceió- Alagoas</p>
 <p>Meu insta - @tainamiraanda</p>
 <div align="center">
-  <a href="https://github.com/rafaballerini">
+  
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tainamiranda2&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tainamiranda2&layout=compact&langs_count=7&theme=dracula"/>
 </div>
@@ -27,7 +27,7 @@
  
 <div> 
   
-  <a href="https://instagram.com/tainamirada2" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/tainamiraada" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto: tainaferreira0987@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/tainamiranda2-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
