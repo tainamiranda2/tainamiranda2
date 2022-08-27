@@ -4,7 +4,7 @@
 <h1>Olá, Sou Tainá Miranda</h1>
 <h2>Sobre mim</h2>  <i class="fas fa-"></i>
 
-<p>Desenvolvedora front-end em formação</p>  <i class="fas fa-fire"></i>
+<p>Desenvolvedora front-end em formação com foco em react.js</p>  <i class="fas fa-fire"></i>
 <p>Atualmente curso sistemas de informação no [IFAL]- (www2.ifal.edu.br)</p>
 <p>Moro em maceió- Alagoas</p>
 <p>Meu insta - @tainamiraanda</p>
