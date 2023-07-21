@@ -4,7 +4,8 @@
 <h1>Olá, Sou Tainá Miranda</h1>
 <h2>Sobre mim</h2>  <i class="fas fa-"></i>
 
-<p>Desenvolvedora fullstack Jr</p>  <i class="fas fa-fire"></i>
+<p>Desenvolvedora fullstack Jr - Reactjs no frontend e php no backend </p>  <i class="fas fa-fire"></i>
+<p>Acesse meu site e entre contato comigo. Nele você vai encontrar informações relevantes sobre mim e minha carreira. <a href="https://portifolio-tainamiranda2.vercel.app/">aqui</a></p>
 <p>Atualmente curso sistemas de informação no [IFAL]- (www2.ifal.edu.br)</p>
 <p>Moro em maceió- Alagoas</p>
 <div align="center">
