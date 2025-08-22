@@ -4,7 +4,7 @@
 <h1>Olá, Sou Tainá Miranda</h1>
 <h2>Sobre mim</h2>  <i class="fas fa-"></i>
 
-<p>Desenvolvedora fullstack Jr na QuatroDois(https://www.quatrodois.com.br/) </p>  <i class="fas fa-fire"></i>
+<p>Desenvolvedora fullstack Jr desde 2023 </p>  <i class="fas fa-fire"></i>
 <p>Atualmente curso sistemas de informação no [IFAL]- (www2.ifal.edu.br)</p>
 <p>Moro em maceió- Alagoas</p>
 <div align="center">
